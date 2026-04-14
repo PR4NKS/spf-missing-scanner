@@ -428,43 +428,18 @@ The authors assume no liability for misuse or damages caused by this software.
 
 ---
 
-## 🙏 Acknowledgments
-
-- **DNSPython** - Robust DNS toolkit for Python
-- **Colorama** - Cross-platform colored terminal output
-- **IETF RFC 7208** - SPF specification
-- **IETF RFC 7489** - DMARC specification
-- The security research community
-
----
-
 ## 📞 Support & Contact
 
 - **Issues:** [GitHub Issues](https://github.com/PR4NKS/spf-dmarc-scanner/issues)
 - **Discussions:** [GitHub Discussions](https://github.com/PR4NKS/spf-dmarc-scanner/discussions)
-- **Email:** security@example.com
-- **Twitter:** [@PR4NKS](https://twitter.com/PR4NKS)
+- **Email:** xdaari8@gmail.com
+- **linkedin:** [@PR4NKS](https://www.linkedin.com/in/pr4nks)
 
 ---
-
-## 🗺️ Roadmap
-
-- [ ] **v2.2:** BIMI (Brand Indicators for Message Identification) support
-- [ ] **v2.3:** TLS-RPT (SMTP TLS Reporting) analysis
-- [ ] **v2.4:** MTA-STS (SMTP MTA Strict Transport Security) validation
-- [ ] **v2.5:** Web dashboard for historical trend analysis
-- [ ] **v3.0:** API endpoint for CI/CD integration
-- [ ] **v3.1:** Slack/Discord/Teams webhook notifications
-- [ ] **v3.2:** Machine learning for anomaly detection
-
----
-
-<div align="center">
-
 **Made with ☕ by security researchers, for security researchers**
 
 ⭐ Star this repo if you find it useful! ⭐
 
-[Report Bug](https://github.com/PR4NKS/spf-dmarc-scanner/issues) · [Request Feature](https://github.com/PR4NKS/spf-dmarc-scanner/issues) · [Documentation](https://docs.example.com)
+[Report Bug](https://github.com/PR4NKS/spf-dmarc-scanner/issues) · [Request Feature](https://github.com/PR4NKS/spf-dmarc-scanner/issues)
 
 </div>
